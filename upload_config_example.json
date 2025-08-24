@@ -1,0 +1,31 @@
+{
+  "cookies": {
+    "SESSDATA": "请填入你的SESSDATA",
+    "bili_jct": "请填入你的bili_jct",
+    "DedeUserID": "请填入你的DedeUserID",
+    "DedeUserID__ckMd5": "请填入你的DedeUserID__ckMd5"
+  },
+  "access_token": "",
+  "copyright": 2,
+  "tid": 171,
+  "tags": [
+    "biliup",
+    "批量上传"
+  ],
+  "description": "通过批量上传工具上传",
+  "dynamic": "",
+  "lines": "AUTO",
+  "threads": 3,
+  "max_retries": 3,
+  "video_extensions": [
+    ".mp4",
+    ".avi",
+    ".mkv",
+    ".mov",
+    ".flv",
+    ".wmv",
+    ".webm"
+  ],
+  "min_file_size": 1048576,
+  "max_file_size": 8589934592
+}
